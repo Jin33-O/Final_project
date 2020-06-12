@@ -1,6 +1,8 @@
 # Schedule check
 _This project help arrange your schedule and make it easy to see your schedule using a web server.
-(When your Raspberry pi is turned on)_
+(When your Raspberry pi is turned on)_  
+This is the explanation video of How to run this file.  
+[CLICK HERE](https://youtu.be/sHuwkQcBJ_M)
 __________
 **********
 
